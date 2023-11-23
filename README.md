@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/> </p>
 <h1 align="center">Hi 👋, I'm VINOD</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
