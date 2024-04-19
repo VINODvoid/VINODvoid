@@ -1,11 +1,9 @@
-
 <p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/> </p>
 <h1 align="center">Hi 👋, I'm VINOD</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VINODvoid&label=Profile%20views&color=0e75b6&style=flat" alt="VINODvoid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=matrix" alt="VINODvoid" /></a> </p>
-
 - 🔭 I’m currently working on [Javascript](https://github.com/VINODvoid/Javascript_Learning)
 - 👯 I’m looking to collaborate on **Developing Web Apps**
 - 🤝 I’m looking for help with **Android Development**
