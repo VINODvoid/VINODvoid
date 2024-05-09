@@ -6,14 +6,6 @@
 
 
 
-
-
-
-
-
-
-
-
 - 🔭 I’m currently working on [Chess-clone](https://github.com/VINODvoid/Chess)
 - 👯 I’m looking to collaborate on **Developing Web Apps**
 - 🤝 I’m looking for help with **Android Development**
