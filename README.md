@@ -1,4 +1,4 @@
-9<p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/> </p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/> </p>
 <h1 align="center">Hi 👋, I'm VINOD</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VINODvoid&label=Profile%20views&color=0e75b6&style=flat" alt="VINODvoid" /> </p>
