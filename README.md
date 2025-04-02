@@ -6,10 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=VINODvoid&label=Profile%20views&color=0e75b6&style=flat" alt="VINODvoid" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=matrix" alt="VINODvoid" /></a> </p>
 
-- 🔭 I’m currently working on [Chess-clone](https://github.com/VINODvoid/Chess)
+- 🔭 I’m currently working on [Cohort-WebDev](https://github.com/VINODvoid/Cohort-WebDev)
 - 👯 I’m looking to collaborate on **Developing Web Apps**
 - 🤝 I’m looking for help with **Android Development**
-- 🌱 I’m currently learning **JavaScript , React **
+- 🌱 I’m currently learning **Web3 , Solona **
 - 💬 Lets Talk About **Any Technologies**
 - 📫 How to reach me **vinod7022234152@gmail.com**
 - 👨‍💻 All of my projects are available at **vinodvardaram.me**
