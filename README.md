@@ -1,5 +1,5 @@
 <p align="center"><img src="./readme.gif" alt="gif"/> </p>
-<h1 align="center">Hi 👋, I'm VINOD</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> , I'm VINOD</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=VINODvoid&label=Profile%20views&color=0e75b6&style=flat" alt="VINODvoid" /> </p>
