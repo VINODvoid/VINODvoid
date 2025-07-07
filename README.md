@@ -1,4 +1,4 @@
-<p align="center"><img src="./readme.gif"/> </p>
+<p align="center"><img src="./readme.gif" alt="gif"/> </p>
 <h1 align="center">Hi 👋, I'm VINOD</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <p align="left"> 
