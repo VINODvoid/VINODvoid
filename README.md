@@ -10,3 +10,7 @@
 <p align="center">
   <b>Software Developer ⚡ </b>
 </p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=onedark" alt="trophies"/>
+</p>
