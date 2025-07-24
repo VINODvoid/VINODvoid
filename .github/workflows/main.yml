@@ -40,4 +40,4 @@ jobs:
           target_branch: output # Branch to push generated files to
           build_dir: dist # Directory containing generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token for authentication
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }} # Token for authentication
