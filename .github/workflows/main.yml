@@ -1,6 +1,5 @@
 name: Generate Snake
 
-# Controls when the action will run. Runs every 6 hours or manually.
 on:
   schedule:
     - cron: "0 */6 * * *"
