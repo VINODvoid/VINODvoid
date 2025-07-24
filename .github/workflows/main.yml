@@ -10,34 +10,31 @@ on:
 # Defines the jobs to be executed
 jobs:
   build:
-    # Specifies the runner environment
     runs-on: ubuntu-latest
 
-    # Steps to execute in the job
     steps:
       # Step 1: Checkout the repository with full history
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all commits to ensure branch history is available
+          fetch-depth: 0
 
-      # Step 2: Generate the snake animation (GIF and SVGs)
+      # Step 2: Generate the snake animation
       - uses: Platane/snk@v3
-        id: snake-gif # Identifier for referencing this step's outputs
+        id: snake-gif
         with:
-          github_user_name: VINODvoid # Your GitHub username
-          gif_out_path: dist/github-contribution-grid-snake.gif # Output path for GIF
-          svg_out_path: dist/github-contribution-grid-snake.svg # Output path for SVG
-          outputs: | # Additional outputs for light and dark theme SVGs
+          github_user_name: VINODvoid
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Display git status for debugging
+      # Step 3: Debug - check git status
       - run: git status
 
       # Step 4: Push generated files to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # Branch to push generated files to
-          build_dir: dist # Directory containing generated files
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }} # Token for authentication
+          target_branch: output
+          build_dir: dist
+          token: ${{ secrets.PERSONAL_TOKEN }}
