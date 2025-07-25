@@ -9,7 +9,7 @@
       <b>
         Hello There
       <br>
-        I'm Nhan, a Student; I like Penguins and Apples, Hate Windows but was being forced to use it.
+        I'm KALKI, a developer; I like Penguins.
       </b>
       <br>
       <b>
