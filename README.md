@@ -13,7 +13,7 @@
       </b>
       <br>
       <b>
-         ~ VINOD ( Kalki ) ~
+         ~  Kalki  ~
       </b>    </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
