@@ -18,11 +18,6 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
-<strong align="center">
-   🏆 GitHub Trophies
-</strong>
-
-![](https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=onedark&no-frame=false&no-bg=true&margin-w=4)  
 <!-- contribution snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VINODvoid/VINODvoid/output/snake.svg" alt="Snake animation" />
