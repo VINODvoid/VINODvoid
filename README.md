@@ -19,6 +19,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <p align="center">
+  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=onedark&no-frame=false&no-bg=true&margin-w=4)  
 </p>
 
