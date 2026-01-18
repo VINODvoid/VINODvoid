@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINODvoid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=FF6B9D&point=8B5CF6&area=true&area_color=8B5CF6" alt="Contribution Graph" />
 </p>
-
 <!-- contribution snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VINODvoid/VINODvoid/output/snake.svg" alt="Snake animation" />
