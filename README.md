@@ -32,6 +32,14 @@
 
 <br>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/VINODvoid/VINODvoid/output/trophies.svg" 
+    alt="GitHub Trophies" 
+  />
+</p>
+
 <!-- GitHub Streak Stats -->
 <p align="center">  
   <img 
