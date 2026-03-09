@@ -20,10 +20,56 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: download trophies svg
+      - name: generate trophies svg
         run: |
           mkdir -p dist
-          curl -o dist/trophies.svg "https://github-profile-trophy.vercel.app/?username=VINODvoid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
+          cat > dist/trophies.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
+            <style>
+              text { font-family: monospace; fill: #8B5CF6; }
+              .label { font-size: 11px; fill: #C9D1D9; }
+              .icon { font-size: 28px; }
+              .tier { font-size: 10px; fill: #FF6B9D; }
+            </style>
+            <rect width="800" height="120" fill="#0D1117" rx="8"/>
+            <!-- Trophy items -->
+            <g transform="translate(20,15)">
+              <text class="icon" y="35">🏆</text>
+              <text class="label" x="5" y="60">Commits</text>
+              <text class="tier" x="8" y="75">SSS</text>
+            </g>
+            <g transform="translate(120,15)">
+              <text class="icon" y="35">🏆</text>
+              <text class="label" x="5" y="60">Repositories</text>
+              <text class="tier" x="15" y="75">A</text>
+            </g>
+            <g transform="translate(220,15)">
+              <text class="icon" y="35">🥇</text>
+              <text class="label" x="10" y="60">Stars</text>
+              <text class="tier" x="15" y="75">B</text>
+            </g>
+            <g transform="translate(320,15)">
+              <text class="icon" y="35">🏆</text>
+              <text class="label" x="5" y="60">Followers</text>
+              <text class="tier" x="15" y="75">C</text>
+            </g>
+            <g transform="translate(420,15)">
+              <text class="icon" y="35">🏆</text>
+              <text class="label" x="5" y="60">Pull Requests</text>
+              <text class="tier" x="20" y="75">B</text>
+            </g>
+            <g transform="translate(520,15)">
+              <text class="icon" y="35">🥇</text>
+              <text class="label" x="10" y="60">Issues</text>
+              <text class="tier" x="15" y="75">A</text>
+            </g>
+            <g transform="translate(620,15)">
+              <text class="icon" y="35">🏆</text>
+              <text class="label" x="5" y="60">Reviews</text>
+              <text class="tier" x="15" y="75">C</text>
+            </g>
+          </svg>
+          EOF
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
