@@ -35,7 +35,7 @@
 <!-- GitHub Trophies -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/VINODvoid/VINODvoid/output/trophies.svg" 
+    src="https://github-trophy-zeta.vercel.app/?username=VINODvoid&theme=tokyonight" 
     alt="GitHub Trophies" 
   />
 </p>
