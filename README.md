@@ -8,12 +8,7 @@
 </p>  
 
 <p align="center">    
-  <samp>      
-    <b>        
-      Hello There      
-      <br>        
-      I'm KALKI, a developer; I like Penguins.      
-    </b>      
+  <samp>         
     <br>      
     <b>         
       ~  Kalki  ~      
@@ -29,48 +24,3 @@
 
 <br>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img 
-    src="https://github-trophy-zeta.vercel.app/?username=VINODvoid&theme=tokyonight" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">  
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=VINODvoid&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B9D&currStreakLabel=8B5CF6" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<!-- GitHub Stats Cards -->
-<p align="center">  
-  <img 
-    src="https://github-readme-stats-matin.vercel.app/api?username=VINODvoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=8B5CF6" 
-    alt="VINODvoid github-readme-stats" 
-    width="48%" 
-  />
-  <img  
-    src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=VINODvoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" 
-    alt="VINODvoid github readme top-langs" 
-    width="48%" 
-  />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">  
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VINODvoid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=FF6B9D&point=8B5CF6&area=true&area_color=8B5CF6" 
-    alt="Contribution Graph" 
-  />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">  
-  <img 
-    src="https://raw.githubusercontent.com/VINODvoid/VINODvoid/output/snake.svg" 
-    alt="Snake animation" 
-  />
-</p>
